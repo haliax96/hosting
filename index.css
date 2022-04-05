@@ -1,0 +1,167 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #1E212B;
+}
+.franja_1
+{
+    width: 100%;
+    height: 275px;
+    background: #7FBEEB;
+    transform: skewY(-2deg);
+}
+.franja_1 .img{
+    position: absolute;
+    top: 20%;
+    right: 5%;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    transform: skewY(2deg);
+    overflow: hidden;
+}
+.franja_1 .img img{
+    width: 200px;
+    height: 200px;
+}
+.franja_1 .datos{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 20%;
+    transform: skewY(2deg);
+    margin: 0px;
+}
+.franja_1 .datos .p-1{
+    color: white;
+    font-family: "Lato", sans-serif;
+    font-weight: bolder;
+    font-size: 50px;
+}
+.franja_1 .datos .p-2{
+    color: white;
+    font-family: "Lato", sans-serif;
+    font-weight: bolder;
+    font-size: 35px;
+}
+.franja_2{
+    width: 90%;
+    height: auto;
+    background: #7FBEEB;
+    margin: 5% auto;
+    padding: 15px;
+    border-radius: 23px;
+}
+.franja_2 .titulo{
+    color: whitesmoke;
+    font-family: "Lato", sans-serif;
+    font-weight: bolder;
+    font-size: 30px;
+    text-align: center;
+    border-bottom: 2px dashed;
+}
+.franja_2 .Dato{
+    color: whitesmoke;
+    font-family: "Lato", sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    display: inline;
+}
+.franja_2 .respuesta{
+    font-family: "Lato", sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    display: inline;
+    margin-left: 40px;
+}
+.franja_2 .sitio{
+    font-family: "Lato", sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    display: inline;
+    margin-left: 118px;
+}
+.franja_2 .número{
+    font-family: "Lato", sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    display: inline;
+    margin-left: 125px;
+}
+.franja_2 .correo_1{
+    font-family: "Lato", sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    display: inline;
+    margin-left: 146px;
+}
+.franja_2 .correo_2{
+    font-family: "Lato", sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    display: inline;
+    margin-left: 198px;
+}
+.franja_2 .correo_3{
+    font-family: "Lato", sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    display: inline;
+    margin-left: 198px;
+}
+.franja_2 .fecha{
+    font-family: "Lato", sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    display: inline;
+    margin-left: 22px;
+}
+.franja_2 .cedula{
+    font-family: "Lato", sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    display: inline;
+    margin-left: 80px;
+}
+.franja_2 .coingecko{
+    font-family: "Lato", sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    display: inline;
+    margin-left: 105px;
+}
+.franja_2 .usco{
+    font-family: "Lato", sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    display: inline;
+    margin-left: 26px;
+}
+.franja_2 .aptitud{
+    font-family: "Lato", sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 50px;
+}
+.franja_2 .pasatiempos{
+    font-family: "Lato", sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    display: inline;
+    margin-left: 20px;
+}
+.franja_2 .B1{
+    font-family: "Lato", sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    display: inline;
+    margin-left: 55px;
+}
+.franja_2 .B2{
+    font-family: "Lato", sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    display: inline;
+    margin-left: 20px;
+}
